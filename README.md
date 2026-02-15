@@ -9,9 +9,9 @@ This repository is a collection of some of the diffusion models I've created.
 ### Ajitsuke Tamago (Ramen eggs) - Thermal diffusion model
 
 * [Read full HTML report](https://stevenafowler.github.io/profile/Ajitsuke%20Tamago.html)
-* [Jupyter Notebook - note videos will not display in GitHUB viewer](https://github.com/StevenAFowler/diffusion_models/blob/9-updates-on-diffusion-area-linked-to-profile-26/AjitsukeTamago/Ajitsuke%20Tamago.ipynb)
+* [Jupyter Notebook](https://github.com/StevenAFowler/diffusion_models/blob/9-updates-on-diffusion-area-linked-to-profile-26/AjitsukeTamago/Ajitsuke%20Tamago.ipynb)
 
-![Example image from report](AjitsukeTamago/assets/images/egg_diffusion_02.png)
+![Example image from report](AjitsukeTamago/assets/images/egg_simulation2.webp)
 
 ## WIP
 
